@@ -1,4 +1,4 @@
-# Contributing to the tutorial
+# Contributing to the tutorial - git conflicts
 
 The tutorial is written in markdown with top headers (\#) denoting the different pages and second headers (\#\#) denoting the stages to appear on those pages. The text for a stage is written below the second header.
 
